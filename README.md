@@ -27,7 +27,11 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
+
 > Answer:
+1. No full page reload is required resulting in a faster loading time, 
+less bandwidth usage and overall more responsive user experience.
+2. pages that render in the client side rather than the server are cheaper to host since they are static.
 
 ## Project Set Up
 
